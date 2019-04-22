@@ -20,4 +20,4 @@ Milestone 3 | for obvious reasons
 
 ### Screenshot
 ![FAIL](CaptureA.png "Screenshot")
-![FAIL](CaptureB.png "Screenshot")
+![FAIL](NewCaptureB.png "Screenshot")
