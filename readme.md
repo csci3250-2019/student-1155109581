@@ -17,3 +17,7 @@ Things to do | Reasons
 ------------ | -------
 Milestone 2 | working on it
 Milestone 3 | for obvious reasons
+
+### Screenshot
+![FAIL](CaptureA.png "Screenshot")
+![FAIL](CaptureB.png "Screenshot")
